@@ -43,7 +43,7 @@ A React.js-based Product Management System that allows users to add, view, edit,
 
 Watch the complete project demonstration here:
 
-👉 **[Watch Demo Video](PASTE_GOOGLE_DRIVE_OR_YOUTUBE_LINK_HERE)**
+👉 https://drive.google.com/file/d/1GQFQkw_TWZ5C18HPq4tNratwa86-JOHt/view?usp=sharing
 
 ---
 
