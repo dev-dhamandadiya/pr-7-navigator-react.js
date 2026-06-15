@@ -25,8 +25,8 @@ const View_Products = ({ list, handleDelete, handleEdit }) => {
                   <img
                     src={item.image}
                     alt={item.productName}
-                    width="60"
-                    height="60"
+                    width="80"
+                    height="80"
                   />
                 </td>
                 <td>{item.productName}</td>
